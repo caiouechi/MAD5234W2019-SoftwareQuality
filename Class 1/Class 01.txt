@@ -1,0 +1,27 @@
+Quality 1
+
+quality assurance -> not focusing a really high quality
+
+give to customer what they expect -> keep and maintain the quality of product
+
+measure: from the customer requirements
+
+software quality -> is not about bugs, but the quality of the software depends on bugs. (bugs can affect the user experience)
+
+
+software engineering -> restless, discipline like no other (compared to mathmatics, you learn something in the past, it
+keeps the same nowadays)
+
+backbone -> synonym of strength
+
+1-restless
+2-under stress (all organizations they need Software)
+mathmatic
+3-50 milion line codes
+4-19 billion
+5-reuse != recycle (gather the components to do a new thing)
+6-design can cause faults (very important)
+read page number 8 better (slept) kkk
+
+
+maintanence -> doesnt stands for just fixing bugs, but also some upgrades
