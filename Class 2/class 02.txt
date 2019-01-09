@@ -1,0 +1,43 @@
+lightweight software engineering -> because of the use of libraries
+wear and tear -> 
+
+criteria and atributes
+
+functional attributes -> input/output behavior (require users/specifcs product logically they are the same, learning and teaching = both are talking)
+operational attributes -> latency/capacity/efficiency
+usability
+business
+structural attributes -> what the type of database, what programming methodologies
+
+
+
+[functional attributes]
+specificiations
+ -> correctness: 
+    robustness: the strength of your answer ( truck lots of rocks ) 
+
+
+requirements
+catastrophic -> its about life
+
+100% reliable = no violing of specification
+100% safe = no catastrophic failures. does not about other failures. (This doesnt mean about security)
+
+latency -> measure the time
+throughput -> by the volume
+efficiency -> use the resources without waste
+scalability -> more users keeps with the efficiency
+customizabilit
+calibrability
+interoperability
+
+
+in house -> in your own company
+
+
+how to gett the software
+1- in house
+2- outsource
+3- from the shelf
+outsourcing -> go another company, they make the assistance for you
+4- from webservices
