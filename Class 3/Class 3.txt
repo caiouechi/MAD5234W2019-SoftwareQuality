@@ -1,0 +1,36 @@
+SDLC -> life cycle (software development lifecycle)
+
+feasibility analysis -> what are the benefits (the main, is the economic, what will be reached)
+requirements analysis -> hardest part (customer has no idea about software engineering, they live in a different world)
+illicitate means to go deep, take the information what is inside the brain in your way
+maintanence -> not just about fixing problems
+
+life cycle -> 
+Rrequirements
+Architecture
+DDesign
+PPrograming
+Integration
+DDelivery
+Maintenance
+
+
+why testing the software -> make sure its free of errors, satisfy specifications, fast or slow, safety, reliability
+
+
+
+2.1. Your colleague Joe argues that since reliability is the probability that the product
+operates free of failure for some unit of time and safety is the probability that the
+product operates free of catastrophic failures, and since catastrophic failures are
+failures, then a reliable system is necessarily safe. Do you agree with Joe? Why
+or why not?
+2.7 EXERCISES 21
+http://freepdf-books.com
+2.2. Can a system be reliable but not secure? Can a system be secure but not reliable?
+2.3. Can a system have high reliability but low availability? Can a system have high
+availability but low reliability?
+
+software testing
+concepts and operations
+wiley ali mili 
+fairouz tchier

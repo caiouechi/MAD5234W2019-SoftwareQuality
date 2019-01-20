@@ -1,0 +1,64 @@
+not minimal, doesnt say 3
+
+the sum will be the same? no
+
+
+n7 not minimal, why
+
+
+
+reqruiement says increase, but not how much
+
+
+complete? -> satisfy all the requirements
+minimality? -> satisfy only the requiremnt, dont add anyhing
+can we do that exercise again
+
+
+state-based system -> system which are working perfectly and some situations (example toronto 13%, and alberta 5%)
+
+stck -> lifo
+queu -> fifo
+
+correctness: correct/partially correct/ none
+
+
+1- you can not say if it is correct without having all the inputs
+
+
+correct -> everything is correct (all the inputs)
+partially correct -> doesnt have all inputs
+
+totally wrong -> has at least one input wrong
+
+
+Chapter 6:
+
+Failure, erorr and fault
+.failure - not happening between, just the final result
+.error -> causes failure or might not causes a failure
+.fault => might causes an erorr or not
+
+
+
+
+fault -> error -> failure
+       |
+	-> no error -> no error
+
+
+
+fault sensitized -> error
+fault not sensiteed -> no error
+
+
+
+error masked -> no failure
+error propagated error -> yes failure
+error -> about the input
+fault -> about the code
+
+
+fault an evasive concept
+
+
