@@ -1,0 +1,17 @@
+manage faults
+
+taxonomy, each testing has some criteria
+
+chapter 7, just to understand each classification
+
+
+tabular way -> separiting in cases. generating test data
+
+
+chapter 15 -> software testing tools (know about these tool)
+
+
+fault seedings -> to put faults in the software to help of making of the number of faults discovered
+
+
+fault seedings faults -> gives you an estimation
